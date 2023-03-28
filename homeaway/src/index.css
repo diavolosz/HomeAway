@@ -1,0 +1,16 @@
+
+
+
+header, footer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: salmon;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
